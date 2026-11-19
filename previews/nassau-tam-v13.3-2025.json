@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "image": "nassau-tam-v13.3-2025.png",
+  "bounds": [
+    141.373776,
+    -16.02161,
+    141.546394,
+    -15.898765
+  ],
+  "width": 1848,
+  "height": 1368,
+  "encoding": "R=G=B=round(prob*255); A=255 scored, A=0 no score",
+  "checkpoint": "tam-v13.3",
+  "year": "2025",
+  "head": null,
+  "species": "parkinsonia",
+  "tiles": [
+    "54LWH"
+  ],
+  "missing_tiles": [],
+  "scored_fraction": 0.8712,
+  "created": "2026-11-17T01:57:06+00:00"
+}
