@@ -7,28 +7,32 @@
  "m_per_px": 349.82,
  "stat": "mean",
  "encoding": "grey = round(255 * sqrt(value)); alpha 255 = scored and in the catchment",
+ "top_note": "value at the top of the colour ramp; the same for every species",
+ "widths": [
+  1200,
+  2400
+ ],
  "species": {
   "parkinsonia": {
-   "image": "flinders-2025-parkinsonia.png",
+   "image": "flinders-2025-parkinsonia",
    "top": 0.6,
    "scored_fraction": 1.0,
    "pixels_10m": 1098382930,
    "share_ge_0.5": 0.020316593048291455
   },
   "prickly_acacia": {
-   "image": "flinders-2025-prickly-acacia.png",
+   "image": "flinders-2025-prickly-acacia",
    "top": 0.6,
    "scored_fraction": 1.0,
    "pixels_10m": 1098382930,
    "share_ge_0.5": 0.0068654817860288484
   },
   "rubber_vine": {
-   "image": "flinders-2025-rubber-vine.png",
+   "image": "flinders-2025-rubber-vine",
    "top": 0.6,
    "scored_fraction": 1.0,
    "pixels_10m": 1098382930,
    "share_ge_0.5": 0.0015845457467187696
   }
- },
- "top_note": "value at the top of the colour ramp; the same for every species"
+ }
 }
